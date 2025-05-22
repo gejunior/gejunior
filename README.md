@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciências da Computação no Instituto Federal de Ciência e Técnologia.
 - 💼 CEO da Tech Factory A3.
-- 🌱 Aprendendo mais sobre Gestão de Projetos.
+- 🌱 Aprendendo mais sobre empresas em geral.
 
 ## Minhas Skills
 
