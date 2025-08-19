@@ -6,15 +6,6 @@
 
 **Projetos**
  - Sistema de gerenciamento de alunos (Java e MySQL)
-   
-
-<br/>
-
-<a href="https://github.com/gejunior" title="Perfil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gejunior&theme=dracula&show_icons=true" />
-</a>
-
-## Frameworks
 
 ## Onde me encontrar
 
