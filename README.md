@@ -5,7 +5,7 @@
 
 
 **Status**
-- ⛰️ "Adventure is a status of mind - it's how we choose to live..." Bear Grylls
+⛰️ "Adventure is a status of mind - it's how we choose to live..." Bear Grylls
 
 
 ## Experiência
