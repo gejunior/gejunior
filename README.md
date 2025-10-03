@@ -7,7 +7,7 @@
 **Projetos**
  - Sistema de gerenciamento de alunos (Java e MySQL)
 
-<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/b7352d6b-3e3f-4f3e-a4e9-932f0da8bdc4" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b7352d6b-3e3f-4f3e-a4e9-932f0da8bdc4" />
 <img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/a01a6047-990b-4f57-a4b9-1599c6fa196e" />
 <img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/63c81bd2-ed91-433f-8088-cf871aa96967" />
 <img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/0dd4a7d5-d60f-4bc7-86b7-1e30d73c3f6b" />
