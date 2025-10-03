@@ -26,7 +26,7 @@ para prototipagem e melhoria contínua de processos.
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/036ecb55-9d70-4b62-97f8-e4e965074972" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6e90b9bc-22d6-49d1-b6a0-cae38cc67a95" />
 <img width="25" height="25" alt="5968282" src="https://github.com/user-attachments/assets/518fa37f-85c5-45ce-80c1-74b52d509a6e" />
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f4d231e0-6715-4cbb-bec2-6c3750a53f0a" />
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d231e0-6715-4cbb-bec2-6c3750a53f0a" />
 
 
 
