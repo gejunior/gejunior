@@ -1,5 +1,13 @@
 ## Sobre
-Cursando Ciência da Computação no IFSP. Busco minha primeira oportunidade de estágio para aplicar minhas habilidades em projetos reais, colaborar com equipes e contribuir para o crescimento da empresa.
+Me chamo Genilson Jr.
+🎓 cursando Ciência da Computação no IFSP. 
+🤔 Busco minha primeira oportunidade de estágio para aplicar minhas habilidades em projetos reais, colaborar com equipes e contribuir para o crescimento da empresa.
+
+
+**Status**
+⛰️ "Adventure is a status of mind - it's how we choose to live..." Bear Grylls
+
+****
 
 ## Experiência
 - 🎓 Participação em ministrando minicurso de "Figma Avançado" (4h),  aplicando prototipagem e automação em interfaces de site. 
@@ -9,8 +17,7 @@ Cursando Ciência da Computação no IFSP. Busco minha primeira oportunidade de 
   - criação de soluções internas,
   - gerenciamento de hospedagem em VPS com
   - Linux e documentação de projetos.
-  - Aplicação de metodologias ágeis e ferramentas de design (Figma, Canvas) 
-para prototipagem e melhoria contínua de processos.
+  - Aplicação de metodologias ágeis e ferramentas de design (Figma, Canvas) para prototipagem e melhoria contínua de processos.
 
 ## Minhas Skills
 
@@ -18,7 +25,15 @@ para prototipagem e melhoria contínua de processos.
  - Sistema de gerenciamento de alunos (Java e MySQL)
  - Sistema de gerenciamento de CDs para vendas de produtos e automação de tabelas (PostgreSQL)
 
-## Tecnologias
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+**Ferramentas**
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6b478192-3d2a-4931-9bf1-7edf10cb14a8" />
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/dee17b5a-da02-4e17-8a06-0675ae6431d7" />
+
+**Tecnologias**
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b7352d6b-3e3f-4f3e-a4e9-932f0da8bdc4" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a01a6047-990b-4f57-a4b9-1599c6fa196e" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9b4c3371-c23b-422c-b047-1ce29cd8e43d" />
@@ -29,7 +44,8 @@ para prototipagem e melhoria contínua de processos.
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/036ecb55-9d70-4b62-97f8-e4e965074972" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6e90b9bc-22d6-49d1-b6a0-cae38cc67a95" />
 <img width="25" height="25" alt="5968282" src="https://github.com/user-attachments/assets/518fa37f-85c5-45ce-80c1-74b52d509a6e" />
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/dee17b5a-da02-4e17-8a06-0675ae6431d7" />
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/7561f844-be1d-4479-ab2d-1d627bf4f2c4" />
+
 
 
 ## Onde me encontrar
