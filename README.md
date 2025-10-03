@@ -33,7 +33,7 @@
 
 **Tecnologias**
 
-- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b7352d6b-3e3f-4f3e-a4e9-932f0da8bdc4" />
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b7352d6b-3e3f-4f3e-a4e9-932f0da8bdc4" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a01a6047-990b-4f57-a4b9-1599c6fa196e" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9b4c3371-c23b-422c-b047-1ce29cd8e43d" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c4284206-8025-47dd-9734-911beadf5c55" />
