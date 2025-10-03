@@ -1,14 +1,11 @@
 ## Sobre mim
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/453c03fc-5879-4486-8edb-69494f8c5fad" /> Me chamo Genilson Jr.
-
-🎓 cursando Ciência da Computação no IFSP. 
-🤔 Busco minha primeira oportunidade de estágio para aplicar minhas habilidades em projetos reais, colaborar com equipes e contribuir para o crescimento da empresa.
+- <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/453c03fc-5879-4486-8edb-69494f8c5fad" /> Me chamo Genilson Jr.
+- 🎓 cursando Ciência da Computação no IFSP. 
+- 🤔 Busco minha primeira oportunidade de estágio para aplicar minhas habilidades em projetos reais, colaborar com equipes e contribuir para o crescimento da empresa.
 
 
 **Status**
-
-⛰️ "Adventure is a status of mind - it's how we choose to live..." Bear Grylls
-
+- ⛰️ "Adventure is a status of mind - it's how we choose to live..." Bear Grylls
 
 
 ## Experiência
@@ -30,14 +27,13 @@
 
 
 **Ferramentas**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+- ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 **Tecnologias**
 
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b7352d6b-3e3f-4f3e-a4e9-932f0da8bdc4" />
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b7352d6b-3e3f-4f3e-a4e9-932f0da8bdc4" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a01a6047-990b-4f57-a4b9-1599c6fa196e" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9b4c3371-c23b-422c-b047-1ce29cd8e43d" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c4284206-8025-47dd-9734-911beadf5c55" />
