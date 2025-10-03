@@ -27,9 +27,10 @@
 
 
 **Ferramentas**
-- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-- ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-- ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 **Tecnologias**
 
