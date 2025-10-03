@@ -1,13 +1,14 @@
-## Sobre
-Me chamo Genilson Jr.
+## Sobre mim
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/453c03fc-5879-4486-8edb-69494f8c5fad" /> Me chamo Genilson Jr.
 🎓 cursando Ciência da Computação no IFSP. 
 🤔 Busco minha primeira oportunidade de estágio para aplicar minhas habilidades em projetos reais, colaborar com equipes e contribuir para o crescimento da empresa.
 
 
 **Status**
+
 ⛰️ "Adventure is a status of mind - it's how we choose to live..." Bear Grylls
 
-****
+
 
 ## Experiência
 - 🎓 Participação em ministrando minicurso de "Figma Avançado" (4h),  aplicando prototipagem e automação em interfaces de site. 
@@ -22,18 +23,19 @@ Me chamo Genilson Jr.
 ## Minhas Skills
 
 **Projetos**
+
  - Sistema de gerenciamento de alunos (Java e MySQL)
  - Sistema de gerenciamento de CDs para vendas de produtos e automação de tabelas (PostgreSQL)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 **Ferramentas**
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6b478192-3d2a-4931-9bf1-7edf10cb14a8" />
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/dee17b5a-da02-4e17-8a06-0675ae6431d7" />
 
 **Tecnologias**
+
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b7352d6b-3e3f-4f3e-a4e9-932f0da8bdc4" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a01a6047-990b-4f57-a4b9-1599c6fa196e" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9b4c3371-c23b-422c-b047-1ce29cd8e43d" />
