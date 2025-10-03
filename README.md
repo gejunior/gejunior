@@ -17,9 +17,11 @@ para prototipagem e melhoria contínua de processos.
 **Projetos**
  - Sistema de gerenciamento de alunos (Java e MySQL)
 
+## Tecnologias
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b7352d6b-3e3f-4f3e-a4e9-932f0da8bdc4" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a01a6047-990b-4f57-a4b9-1599c6fa196e" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9b4c3371-c23b-422c-b047-1ce29cd8e43d" />
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c4284206-8025-47dd-9734-911beadf5c55" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/63c81bd2-ed91-433f-8088-cf871aa96967" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/0dd4a7d5-d60f-4bc7-86b7-1e30d73c3f6b" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a40a294f-4ccc-4d15-a4e8-e70782fee3f8" />
