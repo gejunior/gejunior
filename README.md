@@ -2,8 +2,8 @@
 - <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/453c03fc-5879-4486-8edb-69494f8c5fad" /> Me chamo Genilson Jr.
 - 🎓 cursando Ciência da Computação no IFSP. 
 - 🤔 Busco minha primeira oportunidade de estágio para aplicar minhas habilidades em projetos reais, colaborar com equipes e contribuir para o crescimento da empresa.
-- Aprendendo sobre Machine Learning, IA e Data Science
-- Gosto de aprender sobre neurociência e amo tecnologias.
+- 🌱 Aprendendo sobre Machine Learning, IA e Data Science
+- 🧠💻 Gosto de aprender sobre neurociência e amo aprender sobre tecnologias.
 
 **Status**
 ⛰️ "Adventure is a status of mind - it's how we choose to live..." Bear Grylls
