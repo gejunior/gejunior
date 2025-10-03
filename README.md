@@ -29,10 +29,9 @@ para prototipagem e melhoria contínua de processos.
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/036ecb55-9d70-4b62-97f8-e4e965074972" />
 <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6e90b9bc-22d6-49d1-b6a0-cae38cc67a95" />
 <img width="25" height="25" alt="5968282" src="https://github.com/user-attachments/assets/518fa37f-85c5-45ce-80c1-74b52d509a6e" />
-
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/dee17b5a-da02-4e17-8a06-0675ae6431d7" />
 
 
 ## Onde me encontrar
-
 [![Linkedin](https://img.shields.io/badge/-Genilson_Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-Contato-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srgejunior@gmail.com)](mailto:srgejunior@gmail.com)
