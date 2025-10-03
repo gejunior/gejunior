@@ -1,5 +1,5 @@
 ## Sobre mim
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/453c03fc-5879-4486-8edb-69494f8c5fad" /> Me chamo Genilson Jr.
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/453c03fc-5879-4486-8edb-69494f8c5fad" /> Me chamo Genilson Jr.
 🎓 cursando Ciência da Computação no IFSP. 
 🤔 Busco minha primeira oportunidade de estágio para aplicar minhas habilidades em projetos reais, colaborar com equipes e contribuir para o crescimento da empresa.
 
